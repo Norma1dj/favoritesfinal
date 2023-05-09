@@ -23,4 +23,4 @@ fourth_question = "What is your favorite animal?"
 fourth_question_answer = "Whale"
 
 fifth_question = "What is your favorite programming language? (Hint: You can always say Python!!)"
-fifth_question_answer = "COBOL"
+fifth_question_answer = "Python!!!"
