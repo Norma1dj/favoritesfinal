@@ -14,7 +14,7 @@ first_question = "What is your favorite color?"
 first_question_answer = "Blue"
 
 second_question = "What is your favorite food?"
-second_question_answer = "Foie gras"
+second_question_answer = "Watermelon"
 
 third_question = "Who is your favorite fictional character? ex. Mickey Mouse, Bugs Bunny"
 third_question_answer = "Scrooge McDuck"
