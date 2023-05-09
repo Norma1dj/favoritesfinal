@@ -11,7 +11,7 @@
 """
 
 first_question = "What is your favorite color?"
-first_question_answer = "Chartreuse"
+first_question_answer = "Blue"
 
 second_question = "What is your favorite food?"
 second_question_answer = "Foie gras"
